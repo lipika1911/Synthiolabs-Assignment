@@ -1,0 +1,73 @@
+export const chats = [
+  {
+    id: "1",
+    name: "Dr. Emily Chen",
+    title: "Medical Oncologist",
+    lastMessage: "What roles do regulatory affairs...",
+    avatar: "/doctor_male.png",
+  },
+  {
+    id: "2",
+    name: "Sarah Patel",
+    title: "Medical Oncologist",
+    lastMessage: "How do clinical research associates...",
+    avatar: "/doctor_male.png",
+  },
+  {
+    id: "3",
+    name: "Rajiv Kumar",
+    title: "Pharmacovigilance",
+    lastMessage: "Importance of pharmacovigilance...",
+    avatar: "/doctor_male.png",
+  },
+  {
+    id: "4",
+    name: "Linda Garcia",
+    title: "Liaison",
+    lastMessage: "How do liaisons bridge...",
+    avatar: "/doctor_male.png",
+  },
+  {
+    id: "5",
+    name: "Dr. Sarah Khan",
+    title: "Researcher",
+    lastMessage: "Latest advancements in...",
+    avatar: "/doctor_male.png",
+  },
+  {
+    id: "6",
+    name: "Emily Thompson",
+    title: "Policy",
+    lastMessage: "Regulatory agencies impact...",
+    avatar: "/doctor_male.png",
+  },
+  {
+    id: "7",
+    name: "James Lee",
+    title: "Radiologist",
+    lastMessage: "Trials in the approval...",
+    avatar: "/doctor_male.png",
+  },
+  {
+    id: "8",
+    name: "Emma Chen",
+    title: "Pediatrician",
+    lastMessage: "How are patients selected...",
+    avatar: "/doctor_male.png",
+  },
+  {
+    id: "9",
+    name: "Emma Chen",
+    title: "Pediatrician",
+    lastMessage: "How are patients selected...",
+    avatar: "/doctor_male.png",
+  },
+  {
+    id: "9",
+    name: "Emma Chen",
+    title: "Pediatrician",
+    lastMessage: "How are patients selected...",
+    avatar: "/doctor_male.png",
+  },
+];
+
