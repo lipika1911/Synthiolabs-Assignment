@@ -63,11 +63,13 @@ export const chats = [
     avatar: "/doctor_male.png",
   },
   {
-    id: "9",
+    id: "10",
     name: "Emma Chen",
     title: "Pediatrician",
     lastMessage: "How are patients selected...",
     avatar: "/doctor_male.png",
   },
 ];
+
+
 

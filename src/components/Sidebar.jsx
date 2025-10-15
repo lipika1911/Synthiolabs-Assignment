@@ -4,13 +4,13 @@ import { chats } from "../data/chats";
 const Sidebar = ({activeId}) => {
   return (
     <div className="flex h-full flex-col px-4 py-2">
-      <div className="flex items-center justify-between px-2 py-2">
+      <div className="flex items-center justify-between px-2 pt-2 pb-4">
         <h2 className="text-xl font-semibold">Chats</h2>
         <SquarePen className="w-5 h-5 text-muted-foreground" />
       </div>
 
       {/* Chat List */}
-      <ul className="mt-1 flex-1 space-y-1 overflow-y-auto pr-1">
+      <ul className="mt-2 flex-1 space-y-1 overflow-y-auto pr-1">
         {chats.map((c) => (
           <li key={c.id}>
             <button
