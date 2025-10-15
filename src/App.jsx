@@ -1,8 +1,7 @@
-import React from 'react'
-
 const App = () => {
   return (
-    <div>Synthio Labs</div>
+    <div className="h-screen bg-[url('/gradient.svg')] bg-cover bg-center">
+    </div>
   )
 }
 
